@@ -9,6 +9,7 @@ pip install -r requirement.txt
 ## Usage
 
 $ cd crawler
+
 $ scrapy crawl allocine -o output.json
 
 
